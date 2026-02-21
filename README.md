@@ -1,7 +1,7 @@
 # Captioned-Scenes
 Code.org JavaScript Lesson 11 Mini Project code
 
-Final grade: tbd
+Final grade: 100
 
 # Notes
  - Pretty good
