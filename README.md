@@ -30,7 +30,3 @@ A small **Code.org Game Lab** mini‑project (JavaScript) that draws a simple ou
 - Change the background color and add clouds/trees.
 - Replace captions with a short conversation.
 - Move sprites or animate them over time.
-
-## License
-
-No license file is included. If you want others to reuse this code, add a LICENSE (for example, MIT).
